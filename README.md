@@ -1,4 +1,4 @@
-# Personal C Calculator
+# Basic C Calculator
 
 A simple console-based calculator written in C, capable of performing basic arithmetic, advanced mathematical operations, and trigonometric calculations. The program features a menu-driven interface and allows repeated calculations until the user chooses to exit.
 
