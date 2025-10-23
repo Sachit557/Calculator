@@ -98,7 +98,7 @@ void factorial()
     
     if (n < 0)
     {
-       printf("The actorial isnt defined \n");
+       printf("The factorial isnt defined \n");
     }
     else 
     {
@@ -403,3 +403,4 @@ int main()
 //pie as 3.14 could be substituted by M_PI by   #define _USE_MATH_DEFINES
 //more functions and operators could be added
 //power function could be changed so it can calculate decimal powers( it uses a loop function at the moment instead of the math.h func)
+// equation solver can be added
